@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pasqualetortora
 - 👀 I’m interested in ... animation, interactivity, ethereum blockchain, music, decentralization
-- 🌱 I’m currently learning ... 3d modeling, to use in fusion with traditional animation
-- 💞️ I’m looking to collaborate on ... interactive NFTs
+- 🌱 I’m currently learning ... 3d modeling figures and spaces, to use in fusion with traditional animation
+- 💞️ I’m looking to collaborate on ... VR envirorments, interactive NFTs
 - 📫 How to reach me ...pasquale@nemirex.co
 
 <!---
